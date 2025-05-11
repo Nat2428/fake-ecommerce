@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Fantech MK874 Mechanical Keyboard",
+    "category": "keyboard",
+    "price": 450000,
+    "rating": 4.7,
+    "stock": 12,
+    "description": "Keyboard mechanical RGB dengan switch Outemu Blue.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=MK874"
+  },
+  {
+    "id": 2,
+    "title": "Rexus Legionare MX5.1",
+    "category": "keyboard",
+    "price": 395000,
+    "rating": 4.5,
+    "stock": 15,
+    "description": "Keyboard mechanical dengan LED multicolor.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=MX5.1"
+  },
+  {
+    "id": 3,
+    "title": "Digital Alliance K1",
+    "category": "keyboard",
+    "price": 280000,
+    "rating": 4.2,
+    "stock": 20,
+    "description": "Keyboard RGB low-profile dengan keycap ABS.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=K1"
+  },
+  {
+    "id": 4,
+    "title": "NYK Nemesis M-01",
+    "category": "keyboard",
+    "price": 320000,
+    "rating": 4.3,
+    "stock": 18,
+    "description": "Keyboard TKL dengan efek LED Rainbow.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=M-01"
+  },
+  {
+    "id": 5,
+    "title": "Logitech K120",
+    "category": "keyboard",
+    "price": 160000,
+    "rating": 4.0,
+    "stock": 30,
+    "description": "Keyboard kabel klasik untuk penggunaan harian.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=K120"
+  },
+  {
+    "id": 6,
+    "title": "SteelSeries Apex 3",
+    "category": "keyboard",
+    "price": 750000,
+    "rating": 4.6,
+    "stock": 10,
+    "description": "Water resistant RGB gaming keyboard.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=Apex3"
+  },
+  {
+    "id": 7,
+    "title": "Keychron K2 V2",
+    "category": "keyboard",
+    "price": 1050000,
+    "rating": 4.8,
+    "stock": 8,
+    "description": "Mechanical wireless keyboard dengan switch hot-swappable.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=K2"
+  },
+  {
+    "id": 8,
+    "title": "Logitech G102 Lightsync",
+    "category": "mouse",
+    "price": 250000,
+    "rating": 4.7,
+    "stock": 25,
+    "description": "Mouse gaming RGB dengan sensor 8000 DPI.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=G102"
+  },
+  {
+    "id": 9,
+    "title": "Razer DeathAdder Essential",
+    "category": "mouse",
+    "price": 450000,
+    "rating": 4.6,
+    "stock": 14,
+    "description": "Mouse ergonomis dengan sensor optik presisi.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=DeathAdder"
+  },
+  {
+    "id": 10,
+    "title": "Fantech X9 Thor",
+    "category": "mouse",
+    "price": 175000,
+    "rating": 4.3,
+    "stock": 20,
+    "description": "Mouse gaming dengan LED dan 6 tombol.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=X9"
+  },
+  {
+    "id": 11,
+    "title": "NYK G-07 Gaming Mouse",
+    "category": "mouse",
+    "price": 160000,
+    "rating": 4.2,
+    "stock": 22,
+    "description": "Mouse dengan LED dan desain ergonomis.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=G-07"
+  },
+  {
+    "id": 12,
+    "title": "Digital Alliance Luna X",
+    "category": "mouse",
+    "price": 210000,
+    "rating": 4.1,
+    "stock": 18,
+    "description": "Mouse ringan dengan desain minimalis.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=LunaX"
+  },
+  {
+    "id": 13,
+    "title": "SteelSeries Rival 3",
+    "category": "mouse",
+    "price": 590000,
+    "rating": 4.5,
+    "stock": 9,
+    "description": "Mouse dengan TrueMove Core sensor 8500 CPI.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=Rival3"
+  },
+  {
+    "id": 14,
+    "title": "Rexus Vonix F22",
+    "category": "headset",
+    "price": 300000,
+    "rating": 4.4,
+    "stock": 13,
+    "description": "Headset gaming dengan mic fleksibel dan LED.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=F22"
+  },
+  {
+    "id": 15,
+    "title": "Fantech HG11 Captain",
+    "category": "headset",
+    "price": 370000,
+    "rating": 4.5,
+    "stock": 11,
+    "description": "Headset gaming stereo dengan efek bass.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=HG11"
+  },
+  {
+    "id": 16,
+    "title": "Logitech G331",
+    "category": "headset",
+    "price": 800000,
+    "rating": 4.6,
+    "stock": 10,
+    "description": "Gaming headset dengan surround sound 50mm driver.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=G331"
+  },
+  {
+    "id": 17,
+    "title": "Razer Kraken X",
+    "category": "headset",
+    "price": 950000,
+    "rating": 4.7,
+    "stock": 7,
+    "description": "Lightweight headset dengan surround 7.1 dan mic cardioid.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=KrakenX"
+  },
+  {
+    "id": 18,
+    "title": "NYK HS-N07",
+    "category": "headset",
+    "price": 320000,
+    "rating": 4.3,
+    "stock": 16,
+    "description": "Headset dengan desain ringan dan mic noise cancelling.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=HS-N07"
+  },
+  {
+    "id": 19,
+    "title": "Digital Alliance Titan H1",
+    "category": "headset",
+    "price": 290000,
+    "rating": 4.1,
+    "stock": 19,
+    "description": "Headset dengan lampu LED dan surround stereo.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=H1"
+  },
+  {
+    "id": 20,
+    "title": "Redragon Zeus X H510",
+    "category": "headset",
+    "price": 1100000,
+    "rating": 4.8,
+    "stock": 6,
+    "description": "High-end headset 7.1 surround dengan noise reduction.",
+    "image": "https://dummyimage.com/300x200/000/fff&text=H510"
+  }
+]
